@@ -29,12 +29,11 @@ Connect to your Instance:
 • Once the instance is running, you can connect to it using SSH (for Linux) or RDP (for Windows). • Use the key pair you downloaded earlier to connect.
 
 # output
-<img width="1920" height="1080" alt="Screenshot 2025-10-25 112642" src="https://github.com/user-attachments/assets/3bc94bb7-8a66-4940-ab25-cbfcc68b901a" />
+Simple Storage Service:
+<img width="928" height="491" alt="444751813-cbf99d29-f8c8-4601-8ce3-2813bf4599d9" src="https://github.com/user-attachments/assets/8b3ad371-c7c5-48c2-ac61-2b383af22524" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-25 113345" src="https://github.com/user-attachments/assets/1d788e0b-6ffb-4146-950f-0f0e7e488ea1" />
-
-<img width="1920" height="1080" alt="Screenshot 2025-10-25 113704" src="https://github.com/user-attachments/assets/363b5159-5906-4498-b908-bc35feaece82" />
-
+EC2(Elastic Cloud Compute)
+<img width="883" height="504" alt="444751820-36c30ac3-212a-4875-8f54-94360cd25c65" src="https://github.com/user-attachments/assets/fb7af005-f405-4cad-a5a1-891256285cda" />
 
 
  # RESULT
